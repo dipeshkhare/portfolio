@@ -205,8 +205,15 @@ header button{
     align-items: center;
     justify-content: space-around;
     column-gap: 20px;
-    row-gap: 20px;
+    row-gap: 10px;
     flex-direction: column;
+
+}
+#skill{
+   display: flex;
+   align-items: start;
+   justify-content: space-around;
+
 }
 #contact{
     display: flex;
